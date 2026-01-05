@@ -1,59 +1,76 @@
 # Hi, I'm Priyanka Datla 👋  
 
-🎯 Aspiring Software Engineer | Backend & Systems Learner  
-💻 Java • Python • Data Structures & Algorithms  
+🎓 Computer Science Student | Aspiring Software Engineer  
+🔐 Cryptography & Network Security | 🤖 AI | 💻 Systems & Data  
 
 ---
 
 ## 👩‍💻 About Me
-I’m a computer science student actively building a strong foundation in  
-**Data Structures, problem-solving, and backend system concepts**.
+I’m a computer science student with a strong academic foundation in  
+**systems, data, and security concepts**, and I’m currently transitioning
+from theory to **hands-on, project-based learning**.
 
-Currently, I’m focused on:
-- Writing clean, readable, and correct code
-- Understanding how real-world software systems work
-- Building projects step-by-step with proper design and documentation
+My interests lie at the intersection of:
+- Secure systems
+- Data-driven decision making
+- Intelligent software
 
-I strongly believe in **learning by building**, and I’m using GitHub to track my progress publicly.
 
 ---
 
-## 🛠️ Skills (Growing)
+## 🧠 Academic & Technical Foundation
+
+### 🔐 Security & Networks
+- Cryptographic fundamentals (encryption, hashing, authentication)
+- Network security basics
+- Secure communication concepts
+
+### 🤖 Artificial Intelligence
+- Foundations of AI
+- Basic ML concepts
+- Problem-solving with intelligent approaches
+
+### 📊 Data & Analytics
+- Data Mining concepts
+- Data preprocessing & pattern discovery
+- Understanding data-driven systems
+
+### 💻 Systems
+- Operating Systems (processes, threads, memory basics)
+- Concurrency fundamentals
+- Resource management concepts
+
+---
+
+## 🛠️ Technical Skills
+
 **Languages**
 - Java
 - Python
 - C
 
-**Core Concepts**
+**Core CS**
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- Basic DBMS & OS concepts
+- OS, DBMS, Computer Networks
+
+**Tools**
 - Git & GitHub
-
----
-
-## 🚧 Projects in Progress
-I am currently working on the following **backend-focused projects**:
----
-
-## 🧠 Problem Solving Journey
-- Actively practicing DSA problems
-- Improving approach to edge cases and optimization
-- Maintaining consistency over speed
+- Linux (basic)
 
 ---
 
 ## 🌱 Currently Learning
-- Backend development fundamentals
-- System design basics
-- Concurrency concepts
-- Writing better README and documentation
+- Applying cryptography in real systems
+- Secure backend design
+- AI + data integration in applications
+- Writing clean, maintainable code
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *www.linkedin.com/in/priyanka-datla*
+- 💼 LinkedIn: *(add when ready)*
 
 ---
 
-⭐ Follow my journey — projects and improvements coming soon!
+⭐ Follow along — projects and continuous improvements coming soon!
