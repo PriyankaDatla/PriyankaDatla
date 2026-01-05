@@ -1,7 +1,6 @@
 # Hi, I'm Priyanka Datla 👋  
 
-🎓 Computer Science Student | Aspiring Software Engineer  
-🔐 Cryptography & Network Security | 🤖 AI | 💻 Systems & Data  
+🎓 Computer Science Student | Aspiring Software Engineer | 🤖 AI | 💻 Systems & Data  
 
 ---
 
@@ -69,7 +68,7 @@ My interests lie at the intersection of:
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add when ready)*
+- 💼 LinkedIn: *www.linkedin.com/in/priyanka-datla*
 
 ---
 
