@@ -2,7 +2,6 @@
 
 🎓 Computer Science Student | Aspiring Software Engineer | 🤖 AI | 💻 Systems & Data  
 
----
 
 ## 👩‍💻 About Me
 I’m a computer science student with a strong academic foundation in  
@@ -15,7 +14,6 @@ My interests lie at the intersection of:
 - Intelligent software
 
 
----
 
 ## 🧠 Academic & Technical Foundation
 
@@ -39,7 +37,6 @@ My interests lie at the intersection of:
 - Concurrency fundamentals
 - Resource management concepts
 
----
 
 ## 🛠️ Technical Skills
 
@@ -57,7 +54,6 @@ My interests lie at the intersection of:
 - Git & GitHub
 - Linux (basic)
 
----
 
 ## 🌱 Currently Learning
 - Applying cryptography in real systems
@@ -65,11 +61,11 @@ My interests lie at the intersection of:
 - AI + data integration in applications
 - Writing clean, maintainable code
 
----
+
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: *www.linkedin.com/in/priyanka-datla*
 
----
+
 
 ⭐ Follow along — projects and continuous improvements coming soon!
